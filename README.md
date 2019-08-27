@@ -1,2 +1,2 @@
 # CognitiveSystem
-522认知图谱
+Belongs to N.522
